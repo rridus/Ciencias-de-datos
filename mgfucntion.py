@@ -1,4 +1,4 @@
-# Función para cargar los datos
+
 def cargar_datos(archivo, columnas, saltar_filas=1):
     
     try:
